@@ -3,7 +3,7 @@
     "id": 1000,
     "orderItems": [
       {
-        "productName": "Фотокнига в мягком переплете",
+        "productName": "test",
         "price": 2990,
         "count": 3
       },
@@ -22,7 +22,7 @@
     "id": 1001,
     "orderItems": [
       {
-        "productName": "Фотокнга с твердой фотообложкой",
+        "productName": "test",
         "price": 1790,
         "count": 3
       },
